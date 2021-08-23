@@ -69,10 +69,11 @@ I've done almost every thing I thought of doing at the beginning of the project.
 During this period of 10 weeks, I've done a lot of work and learnt a lot in my way.  
 As you can see below, the before and after images, I've implemented more than 300 test cases and increased the test coverage 5 folds.
 
-
+###before :
 <p align="center">
   <img src="/assets/before.png"  width="300" style="margin-left:50%;transform:translateX(-50%);"/>
-</p>
+</p>  
+###after : 
 <p align="center">
   <img src="/assets/after.png"  width="300" style="margin-left:50%;transform:translateX(-50%);"/>
 </p>
