@@ -72,7 +72,8 @@ As you can see below, the before and after images, I've implemented more than 30
 ### before :
 <p align="center">
   <img src="/assets/before.png"  width="300" style="margin-left:50%;transform:translateX(-50%);"/>
-</p>  
+</p>   
+
 ### after : 
 <p align="center">
   <img src="/assets/after.png"  width="300" style="margin-left:50%;transform:translateX(-50%);"/>
